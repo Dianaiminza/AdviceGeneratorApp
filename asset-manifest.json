@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AdviceGeneratorApp/static/css/main.5d16b32a.css",
-    "main.js": "/AdviceGeneratorApp/static/js/main.199df042.js",
-    "static/js/787.9107f1b4.chunk.js": "/AdviceGeneratorApp/static/js/787.9107f1b4.chunk.js",
-    "index.html": "/AdviceGeneratorApp/index.html",
-    "main.5d16b32a.css.map": "/AdviceGeneratorApp/static/css/main.5d16b32a.css.map",
-    "main.199df042.js.map": "/AdviceGeneratorApp/static/js/main.199df042.js.map",
-    "787.9107f1b4.chunk.js.map": "/AdviceGeneratorApp/static/js/787.9107f1b4.chunk.js.map"
+    "main.css": "/advice/static/css/main.5d16b32a.css",
+    "main.js": "/advice/static/js/main.67496f2b.js",
+    "static/js/787.9107f1b4.chunk.js": "/advice/static/js/787.9107f1b4.chunk.js",
+    "index.html": "/advice/index.html",
+    "main.5d16b32a.css.map": "/advice/static/css/main.5d16b32a.css.map",
+    "main.67496f2b.js.map": "/advice/static/js/main.67496f2b.js.map",
+    "787.9107f1b4.chunk.js.map": "/advice/static/js/787.9107f1b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d16b32a.css",
-    "static/js/main.199df042.js"
+    "static/js/main.67496f2b.js"
   ]
 }
